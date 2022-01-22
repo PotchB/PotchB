@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PotchB
+- 👋 Hi, I’m Potch
 - 👀 I’m interested in Software, Web, and Android Development
 - 🌱 I’m currently learning JAVA, XML, and JavaScript through Eclipse
 
